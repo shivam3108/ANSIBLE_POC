@@ -259,6 +259,10 @@
         "adminUsername": {
             "type": "string",
             "value": "[parameters('adminUsername')]"
-        }
+        },
+               "VirtualMachineIPAddress": {
+			           "type": "string",
+			           "value": "[reference(parameters('publicIpAddressName')).ipAddress]"
+		       }
     }
 }
