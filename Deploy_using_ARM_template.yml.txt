@@ -1,0 +1,7 @@
+---
+- name: Provision a vm using ARM template 
+  hosts: controller
+  connection: local
+  tasks:
+      - include_role:
+           name: provision_VM_using_ARM_template

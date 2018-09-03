@@ -1,0 +1,3 @@
+---
+Resource_group: arm_temp
+vm_ip: ipAddress.properties.outputs.virtualMachineIPAddress.value
