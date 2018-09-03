@@ -24,7 +24,7 @@
             "value": "ARM-nsg"
         },
         "adminPassword": {
-            "value": null
+            "value": "devopps@12345"
         },
         "diagnosticsStorageAccountName": {
             "value": "armtempdiag345"
