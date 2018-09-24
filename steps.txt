@@ -142,3 +142,7 @@ https://www.tutorialspoint.com/ansible/ansible_ad_hoc_commands.htm
 To add hostname dynamically
 ===========================
 http://docs.catalystcloud.io/tutorials/ansible-create-x-servers-using-in-memory-inventory.html
+
+
+________________
+http://lifuzu.com/blog/2014/04/24/playing-with-jenkins-create-job/
